@@ -18,16 +18,6 @@ class Canvas{
         this.graphics.fillRect(point.x, point.y, size.width, size.height);
     }
 
-    isoRect(point, color){
-        this.graphics.fillStyle = color;
-        var pixel = 2;
-        for(var i = 0; i < 17; i++) {
-            this.graphics.fillRect(point.x + i * 2, point.y + (32 / 2) - 1 + i, ((32 / 2) - i) * 4, 1);
-            this.graphics.fillRect(point.x + i * 2, point.y + (32 / 2) - 1 - i, ((32 / 2) - i) * 4, 1);
-        
-        }
-
-    }
 
 
 

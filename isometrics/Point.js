@@ -28,4 +28,5 @@ class Point{
         this.y += speedMove;
     }
 
+
 }
