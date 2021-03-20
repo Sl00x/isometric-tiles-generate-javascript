@@ -11,7 +11,7 @@ Implementing:
 
 ### How to create map
 
-go in directory: ``./isometrics/maps/map01.js` or create other `map0x.js`
+go in directory: `./isometrics/maps/map01.js` or create other `map0x.js`
 
 using variable `var map = [][];`
 
