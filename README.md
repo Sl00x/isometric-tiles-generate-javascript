@@ -25,7 +25,7 @@ var map = [
 ```
 ####Adding new texture
 
-go in directory: ``./isometrics/materials/Materials.js`
+go in directory: `./isometrics/materials/Materials.js`
 
 edit dictionary:
 
